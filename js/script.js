@@ -6,7 +6,7 @@ const quizData = [{
     d: '32 Age',
     correct: 'c',
 }, {
-    question: 'What is the most use programming language in 2020?',
+    question: 'Most Popular Programming Languages In 2020?',
     a: 'Python',
     b: 'Java',
     c: 'C',
