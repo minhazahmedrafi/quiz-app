@@ -1,8 +1,8 @@
 const quizData = [{
     question: 'How old is Saifur Islam Nirob?',
-    a: '20 Age',
-    b: '25 Age',
-    c: '27 Age',
+    a: '24 Age',
+    b: '27 Age',
+    c: '29 Age',
     d: '32 Age',
     correct: 'c',
 }, {
