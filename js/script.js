@@ -9,9 +9,9 @@ const quizData = [{
     question: 'What is the most use programming language in 2020?',
     a: 'Python',
     b: 'Java',
-    c: 'C++',
+    c: 'C',
     d: 'JavaScript',
-    correct: 'b',
+    correct: 'c',
 }, {
     question: 'Who is the Prime Minister of Bangladesh?',
     a: 'Jinius Ahmed',
