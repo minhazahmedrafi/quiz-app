@@ -11,7 +11,7 @@ const quizData = [{
     b: 'Java',
     c: 'C++',
     d: 'JavaScript',
-    correct: 'c',
+    correct: 'b',
 }, {
     question: 'Who is the Prime Minister of Bangladesh?',
     a: 'Jinius Ahmed',
